@@ -1,0 +1,12 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/woriwori/typechain.git",
+  "author": "이원희 <wonhee.lee@nhnsoft.com>",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js",
+    "prestart": "tsc"
+  }
+}
