@@ -10,3 +10,7 @@
 2. tsc-watch
 - hot reloading처럼 저장만 하면 타입스크립트를 다시 컴파일해주는 패키지
 - 즉, src 안의 코드가 바뀔 때마다 dist/ 하위의 파일이 변경됨
+
+3. interface
+- 객체의 type 정의
+- `index.js` 보면 interface는 변환이 안됨
