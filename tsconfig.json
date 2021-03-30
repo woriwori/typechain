@@ -2,8 +2,9 @@
   "compilerOptions": {
     "module": "CommonJS",
     "target": "ES2015",
-    "sourceMap": true
+    "sourceMap": true,
+    "outDir": "dist"
   },
-  "include": ["index.ts"],
+  "include": ["src/**/*"], // 무슨 뜻인지 모름
   "exclude": ["node_modules"]
 }
